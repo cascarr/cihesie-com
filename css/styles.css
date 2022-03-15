@@ -265,7 +265,7 @@ img {
 .qul-sec {
   background: #7aa1d2;
   color: #fff;
-  padding: 2em 0;
+  padding: 2em 1em;
 }
 
 .qul-sec + .qul-sec {
